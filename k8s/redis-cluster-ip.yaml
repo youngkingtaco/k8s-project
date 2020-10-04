@@ -7,6 +7,6 @@ spec:
    selector:
       component: redis 
    ports:
-      - Port: 6379
+      - port: 6379
         targetPort: 6379
         
