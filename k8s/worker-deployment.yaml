@@ -22,7 +22,3 @@ spec:
               value: cluster-redis-ip-service
             - name: REDIS_PORT
               value: '6379'
-           
-
-
-
